@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer+%7C+Django+%7C+Python)](https://git.io/typing-svg)
 
-I'm a passionate backend developer from Pakistan, open to exciting learning opportunities and collaborations.
+I'm a passionate backend developer from Pakistan, aspiring to excel in backend technologies and open-source contributions.
 
 - 🔭 I’m currently working on enhancing my backend skills (Django, APIs, System Design)
 - 🌱 I’m currently learning Advanced Django, Database Optimization & Cloud Basics
@@ -21,9 +21,10 @@ I'm a passionate backend developer from Pakistan, open to exciting learning oppo
 <!-- yahan aur bhi apni skills ke badges add kar sakte hain, jaise Git, Docker, REST API waghera -->
 
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Hammad-Infinity&show_icons=true&theme=radical" alt="Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Infinity&layout=compact&theme=radical" alt="Languages" />
+![Your GitHub stats](https://gh-stats.com/api?username=Hammad-Infinity)
+
+![Top Languages](https://gh-stats.com/api/top-langs/?username=Hammad-Infinity)
 
 ### 🏆 My Trophies
 
