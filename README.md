@@ -21,8 +21,7 @@ I'm a passionate backend developer from Pakistan, open to exciting learning oppo
 <!-- yahan aur bhi apni skills ke badges add kar sakte hain, jaise Git, Docker, REST API waghera -->
 
 ### 📊 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Infinity&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad-Infinity&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Infinity&layout=compact&theme=radical)
 
